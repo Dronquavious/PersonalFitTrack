@@ -11,30 +11,6 @@ This project provides a simple system for managing personal fitness data. It all
 - Record and monitor meals
 - Set and follow personal fitness goals
 
-## Project Structure
-
-The project is organized as follows:
-
-PersonalFitTrack/
-│
-├── src/
-│   ├── User/
-│   │   └── User.java
-│   ├── Workout/
-│   │   └── Workout.java
-│   ├── Meal/
-│   │   └── Meal.java
-│   ├── Goal/
-│   │   └── Goal.java
-│   └── App.java
-│
-├── bin/
-│   └── (Compiled .class files)
-│
-└── lib/
-    └── (External libraries, if any)
-
-
 ## Key Features
 
 1. **User Management**: Create and manage user profiles with personal information such as name, age, weight, and height.
